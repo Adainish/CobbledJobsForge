@@ -11,7 +11,6 @@ public class EventSubscriptions
 {
     public EventSubscriptions()
     {
-
         subscribeToPlayerLogin();
         subscribeToPlayerLogout();
         subscribeToCapture();
